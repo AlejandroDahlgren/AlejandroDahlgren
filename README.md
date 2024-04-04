@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AlejandroDahlgren
+- 👀 I’m interested in learning tools for webbdesign 
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on webbdesign and any work that will give me more tools to work with
+- 📫 How to reach me : Alejandro Dahlgren on linkedin 
+- ⚡ Fun fact: Studying with techover right now.
